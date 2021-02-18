@@ -9,7 +9,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/Users/joeygallotta/Downloads/apache-tomcat-9.0.43"/>
 	<classpathentry kind="con" path="org.jboss.ide.eclipse.as.classpath.core.ejb3.classpathContainer/WildFly 22.0 Runtime Server"/>
+	<classpathentry kind="lib" path="/Users/joeygallotta/Downloads/apache-tomcat-9.0.43/lib"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
